@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "phone": "",
+      "countryCode": "+91",
+      "phoneCountry": "in",
+      "role": "driver",
+      "id": 2
+    },
+    {
+      "phone": "",
+      "countryCode": "+91",
+      "phoneCountry": "in",
+      "role": "driver",
+      "id": 3
+    },
+    {
+      "phone": "",
+      "countryCode": "+91",
+      "phoneCountry": "in",
+      "role": "driver",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
